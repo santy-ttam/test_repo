@@ -1,0 +1,17 @@
+# Nextflow work directory
+work/
+.nextflow/
+.nextflow.log*
+
+# Nextflow reports
+report.html
+timeline.html
+trace.txt
+dag.html
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
